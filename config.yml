@@ -1,0 +1,39 @@
+hopper_name: "&bCrop &7Hopper"
+hopper_lore: "&7Automatically collects drops within a chunk"
+
+messages:
+    prefix: "&b&lDimensionPvP &7> "
+    hopper_already_in_chunk: "There is already a &bCrop &7Hopper in this chunk!"
+    hopper_break_success: "You successfully broke a &bCrop &7Hopper!"
+    hopper_place_success: "You successfully placed a &bCrop &7Hopper!"
+    no_permission: "You do not have permission to use that command!"
+    incorrect_usage: "Incorrect usage! Try: &b/crophopper [player]"
+    player_offline: "That player is offline!"
+    crophopper_success: "Player successfully given a Crop Hopper!"
+    crophopper_given: "You have been given a Crop Hopper!"
+
+items:
+    - SUGAR_CANE
+    - CACTUS
+    - SULPHUR
+    - TNT
+    - DIAMOND
+    - GOLD_INGOT
+    - GOLD_NUGGET
+    - EMERALD
+    - BLAZE_ROD
+    - RAW_CHICKEN
+    - COOKED_CHICKEN
+    - FEATHER
+    - BONE
+    - ARROW
+    - SPIDER_EYE
+    - STRING
+    - LEATHER
+    - RAW_BEEF
+    - COOKED_BEEF
+    - CARROT
+    - POTATO
+    - IRON_INGOT
+    - ENDER_PEARL
+    - ROTTEN_FLESH
